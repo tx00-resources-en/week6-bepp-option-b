@@ -130,7 +130,7 @@ module.exports = Book;
 
 ### Iteration 0: Setup
 
-1. Clone [the starter repository](https://github.com/tx00-resources-en/w5-exam-practice-backend) into a separate folder.
+1. Clone [the starter repository](https://github.com/tx00-resources-en/week6-bepp-option-b) into a separate folder.
    - After cloning, **delete** the `.git` directory so you can start your own Git history (`git init`).
 
 2. **Prepare the environment:**
